@@ -1,0 +1,25 @@
+{
+    "nombre": "luxio",
+    "id": 404,
+    "tipos": [
+        "electric"
+    ],
+    "habilidades": [
+        "rivalry",
+        "intimidate",
+        "guts"
+    ],
+    "movimientos": [
+        "headbutt",
+        "tackle",
+        "take-down",
+        "double-edge",
+        "leer",
+        "bite",
+        "roar",
+        "strength",
+        "thunder-shock",
+        "thunderbolt"
+    ],
+    "imagen_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/404.png"
+}

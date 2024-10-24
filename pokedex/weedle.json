@@ -1,0 +1,19 @@
+{
+    "nombre": "weedle",
+    "id": 13,
+    "tipos": [
+        "bug",
+        "poison"
+    ],
+    "habilidades": [
+        "shield-dust",
+        "run-away"
+    ],
+    "movimientos": [
+        "poison-sting",
+        "string-shot",
+        "bug-bite",
+        "electroweb"
+    ],
+    "imagen_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png"
+}

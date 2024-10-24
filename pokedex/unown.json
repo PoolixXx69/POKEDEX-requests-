@@ -1,0 +1,14 @@
+{
+    "nombre": "unown",
+    "id": 201,
+    "tipos": [
+        "psychic"
+    ],
+    "habilidades": [
+        "levitate"
+    ],
+    "movimientos": [
+        "hidden-power"
+    ],
+    "imagen_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201.png"
+}

@@ -1,0 +1,24 @@
+{
+    "nombre": "chikorita",
+    "id": 152,
+    "tipos": [
+        "grass"
+    ],
+    "habilidades": [
+        "overgrow",
+        "leaf-guard"
+    ],
+    "movimientos": [
+        "swords-dance",
+        "cut",
+        "vine-whip",
+        "headbutt",
+        "tackle",
+        "body-slam",
+        "take-down",
+        "double-edge",
+        "growl",
+        "counter"
+    ],
+    "imagen_url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png"
+}
